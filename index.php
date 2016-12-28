@@ -1,1 +1,1 @@
-<?php echo "This application is Deployed from IBM Bluemix DevOps!"; ?>
+<html><body><h1>Updated by test execution: Wed Dec 28 14:03:54 EST 2016
